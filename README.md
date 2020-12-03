@@ -1,6 +1,8 @@
 # mysql-timeline
 Parse and format logs from a MySQL Galera cluster
 
+originally written by Stephen Carter
+
 Details
 -
 The tool parses known log lines (that I understand!) and generates a consolidated timeline of the events that happened on a cluster.
